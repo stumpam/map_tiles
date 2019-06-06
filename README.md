@@ -7,7 +7,7 @@ Project for creating map tiles in QGIS for use in Atlas
 
 ![Script settings](https://github.com/stumpam/map_tiles/blob/master/screenshot.png)
 
-##R equired Options
+## Required Options
 -  `Input layer` - vector point layer, from which will be map tiles calculated
    - optionally you can pick just selected items
 - `Width` - default: *600* - width of map tile in meters
