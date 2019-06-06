@@ -1,6 +1,8 @@
 # Map tiles for QGIS
 Project for creating map tiles in QGIS for use in Atlas
 
+![Script settings](https://github.com/stumpam/map_tiles/blob/master/Screenshot_tiles.png)
+
 ## Usage
 - Add script to scripts folder in QGIS or add script in tools window
 - run script MT (map tiles):
